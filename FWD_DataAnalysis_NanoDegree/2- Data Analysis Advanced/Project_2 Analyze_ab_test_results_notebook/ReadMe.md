@@ -5,5 +5,5 @@ For this project, you will be working to understand the results of an A/B test r
 
 The data and the Jupyter Notebook, which are all of the files you need to complete the project, are provided for you in a downloadable zip file in the resources tab (as well as under "Supporting Materials" below). Note that portions of the notebook reference back to quizzes that are linked in this lesson to ensure you are on the right track.
 
-###Supporting Materials
+### Supporting Materials
 - [AnalyzeABTestResults 2](https://video.udacity-data.com/topher/2017/December/5a32c9a0_analyzeabtestresults-2/analyzeabtestresults-2.zip)
